@@ -1,3 +1,13 @@
+# Note:
+As I was learning Django, I notice that utilizing the **django shell** is great!!! I think anyone whom is learning should know how to utilize
+```python3 manage.py shell```
+
+It's like using **ipython**, but is specifically with django on mind so you can just import certain libraries and utilize ```dir()``` or ```help()``` effectively with django objects to help you navigate.
+
+The ability to learn how to navigate is key when it comes to python or learning language or framework.
+
+-----
+
 ### Understanding MVC, MVT, and Decoupled/Headless Architecture in Django
 
 # Model-View-Controller (Common Traditional Software Architecture Pattern)
@@ -173,13 +183,3 @@ export default ProductList;
 -   **MVC**: Provides a foundational understanding of separating logic into layers.
 -   **MVT**: Django’s server-side rendering approach, ideal for simpler or tightly coupled applications.
 -   **Decoupled/Headless**: Perfect for modern, API-driven applications requiring flexibility, scalability, and multi-platform support.
-
-
----------
-
-I just want to say that as I was learning Django, I notice that utilizing the **django shell** is great!!! I think anyone whom is learning should know how to utilize
-```python3 manage.py shell```
-
-It's like using **ipython**, but is specifically with django on mind so you can just import certain libraries and utilize ```dir()``` or ```help()``` effectively with django objects to help you navigate.
-
-The ability to learn how to navigate is key when it comes to python or learning language or framework.
