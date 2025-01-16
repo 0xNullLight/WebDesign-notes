@@ -36,4 +36,8 @@ Here’s a rundown of some useful extensions for VS Code I found on my journey t
    - **Link**: [SQLTools on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
    - **Youtube**: https://youtu.be/C0y35FpiLRA
 
+8. **Auto Rename Tag** from *Jun Han*:
+   - **Description**: The Auto Rename Tag extension automatically renames the paired HTML or XML tags when you rename one of them. This saves time and ensures that your markup remains consistent without manually updating both opening and closing tags.
+   - **Link**: [Auto Rename Tag on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
 These extensions can significantly improve your development workflow and make working in VS Code more efficient and enjoyable.
