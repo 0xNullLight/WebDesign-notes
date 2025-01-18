@@ -23,3 +23,10 @@ This repository contains a collection of valuable tools and resources for develo
 - [MongoDB](https://mongodb.com): Document-oriented NoSQL database.
 - [VSCode REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): REST client extension for Visual Studio Code.
 - [Beyond Code Camp](https://beyondcodecamp.org): Nate's website offering coding resources and courses.
+- [PixelCut](https://pixelcut.ai): AI-powered design and image editing tool.
+- [Suno](https://suno.com): AI tool for generating audio content.
+- [Vocal Remover](https://vocalremover.org/): Tool for removing vocals from songs.
+- [Eleven Labs](https://elevenlabs.io): AI voice synthesis and speech generation platform.
+- [PhonicMind](https://phonicmind.com): AI-powered vocal and instrumental separation tool.
+- [Band in a Box](https://www.pgmusic.com/): Music production software for creating full arrangements.
+- [YouTube Video About Band in a Box with Suno](https://www.youtube.com/watch?v=JCBc3-SNNUY): Learn about innovative tools and resources for developers.
