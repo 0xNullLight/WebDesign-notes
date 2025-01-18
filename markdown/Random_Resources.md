@@ -13,3 +13,13 @@ This repository contains a collection of valuable tools and resources for develo
 - [Sourcegraph](https://sourcegraph.com/): Code search and navigation for developers.
 - [Advent of Code](https://adventofcode.com/): Daily coding puzzles to improve problem-solving skills.
 - [Codia](https://codia.ai/): AI-powered coding assistant for developers.
+- [Cypress](https://cypress.io): End-to-end testing framework for web applications.
+- [Render](https://render.io): Platform for deploying and hosting apps and websites.
+- [MSW](https://mswjs.io): Mocking API responses for testing.
+- [Vitest](https://vitest.dev): Fast testing framework built for Vite.
+- [GraphQL Learn Queries](https://graphql.org/learn/queries/): Learn how to use GraphQL queries.
+- [State of JS](https://stateofjs.com/en-US): Survey results on JavaScript trends and insights.
+- [Mongoose](https://mongoosejs.com): ODM for MongoDB and Node.js.
+- [MongoDB](https://mongodb.com): Document-oriented NoSQL database.
+- [VSCode REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): REST client extension for Visual Studio Code.
+- [Beyond Code Camp](https://beyondcodecamp.org): Nate's website offering coding resources and courses.
